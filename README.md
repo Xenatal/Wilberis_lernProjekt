@@ -1,5 +1,5 @@
 # willberries_LernProjekt_GloAcademy
-## Gehostet auf: https://xenatal-amazonika.netlify.app/
+## Gehostet auf: https://xenatal-wilberries.netlify.app
 ## gemacht: Natalia H
 ### Technology: 
   -HTML
